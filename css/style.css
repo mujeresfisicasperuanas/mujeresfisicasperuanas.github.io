@@ -37,6 +37,9 @@ h1, h2{
   -o-transition:all .5s ease 0s;
   -ms-transition:all .5s ease 0s;
 }
+.loguitochevere{
+	margin: auto;
+}
 .navbar-default {
   background-color: transparent;
   border-color: transparent;
@@ -258,7 +261,6 @@ li a.active{
 /*service area*/
 .service{
 	background: url(../img/pattern.jpg);
-	background-repeat: repeat-y;
 	margin-top: 40px;
 }
 .service h2{
